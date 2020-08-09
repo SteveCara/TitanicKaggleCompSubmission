@@ -25,6 +25,12 @@
 
 I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below [TBU].
 
+![](/images/titanic_lmplot.png)
+
+![](/images/titanic_heatmap.png)
+
+![](/images/titanic_jointplot.png)
+
 
 ## Model Building
 
