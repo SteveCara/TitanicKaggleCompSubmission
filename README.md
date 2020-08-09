@@ -23,11 +23,7 @@
 
 ## EDA
 
-I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below
-
-<img src="Images/football_heatmap_EDA.PNG" width=400><img src="Images/wins_profile_EDA.PNG" width=500>
-
-<img src="Images/pts_position_team_pivot_EDA.PNG" width=400>
+I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below.
 
 
 ## Model Building
