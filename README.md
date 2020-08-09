@@ -2,7 +2,7 @@
 
 - Created a predictive model that answers the question: “what sorts of people were more likely to survive the sinking of the Titanic?”.
 
-- Used passenger data (ie name, age, gender, socio-economic class, etc) from Kaggle to develop the model.
+- Used passenger data (i.e. name, age, gender, socio-economic class, etc) from Kaggle to develop the model.
 
 - Undertook exploratory data analysis to understand the key relationships and characteristics of the data
 
