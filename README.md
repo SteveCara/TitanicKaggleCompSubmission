@@ -23,13 +23,13 @@
 
 ## EDA
 
-I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below [TBU].
+I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below.
 
-![](/images/titanic_lmplot.png)
+![](/images/titanic_lmplot.PNG)
 
-![](/images/titanic_heatmap.png)
+![](/images/titanic_heatmap.PNG)
 
-![](/images/titanic_jointplot.png)
+![](/images/titanic_jointplot.PNG)
 
 
 ## Model Building
