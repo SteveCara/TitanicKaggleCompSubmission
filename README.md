@@ -23,7 +23,7 @@
 
 ## EDA
 
-I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below.
+I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below. (If images don't load see images folder).
 
 ![](/images/titanic_lmplot.PNG)
 
