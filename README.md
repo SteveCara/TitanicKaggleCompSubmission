@@ -1,4 +1,4 @@
-# Data Science Football Project: Project Overview
+# Who would survive the sinking of the Titanic?: Project Overview
 
 - Created a predictive model that answers the question: “what sorts of people were more likely to survive the sinking of the Titanic?”.
 
