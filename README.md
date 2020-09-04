@@ -25,11 +25,11 @@
 
 I started with some exploratory data analysis to summarise the main characteristics of the data and find the key relationships. Some highlights are below. (If images don't load see images folder).
 
-![lmplot](images/titanic_lmplot.PNG)
+![](/images/titanic_lmplot.PNG)
 
-![heatmap](images/titanic_heatmap.PNG)
+![](/images/titanic_heatmap.PNG)
 
-![jointplot](images/titanic_jointplot.PNG)
+![](/images/titanic_jointplot.PNG)
 
 
 ## Model Building
