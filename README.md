@@ -41,7 +41,7 @@ I developed three clasification models and used GridSearchCV to optimsie the mod
 The models were:
 - **Random Forest**
 - **Decision Tree**
-- **Nave Bayes**
+- **Naive Bayes**
 - **Logistic Regression**
 
 
